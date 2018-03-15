@@ -1,7 +1,7 @@
 // write your code below!
 
 var name = "Rose"
-var height = "100 short"
+var height = "too short"
 
 console.log("Name:")
 console.log(name)
